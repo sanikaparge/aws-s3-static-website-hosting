@@ -43,10 +43,6 @@ Website Accessible via Public URL
 - Permission management
 - Basic AWS architecture
 
-## Screenshots
-
-(Add screenshots here)
-
-## Author
+ ## Author
 **Sanika Parge**
 Learning AWS, Linux and Cloud Computing through hands-on projects.
